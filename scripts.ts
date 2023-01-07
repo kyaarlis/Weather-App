@@ -9,7 +9,7 @@ const time = document.querySelector('.time')
 const currDate = document.querySelector('.dayAndMonth')
 
 // API key
-const key = '22e4c41840b694191cbf19af3abd264e40'
+const key = 'apikey'
 
 // geocode API
 //const geocode = `http://api.openweathermap.org/geo/1.0/direct?q=London,826&limit=3&appid=e4c41840b694191cbf19af3abd264e40`
